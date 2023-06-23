@@ -1,3 +1,20 @@
+**Lead Auditors**
+
+[Giovanni Di Siena](https://twitter.com/giovannidisiena)
+
+[Hans](https://twitter.com/hansfriese)
+
+**Assisting Auditors**
+
+[Alex Roan](https://twitter.com/alexroan)
+
+[Patrick Collins](https://twitter.com/PatrickAlphaC)
+
+---
+
+
+# Findings
+
 ## High Risk
 
 
