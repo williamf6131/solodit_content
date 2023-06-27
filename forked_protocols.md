@@ -7,7 +7,7 @@ Please provide the legacy protocol for the `forked_from` field using only the op
 |----------|:-------------|
 | Beanstalk wells | |
 | Notional V3 | |
-| Llama | invalid test |
+| Llama | |
 | Sudoswap LSSVM2 | |
 | DODO Margin Trading | |
 | JOJO Exchange | |
