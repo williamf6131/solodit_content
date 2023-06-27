@@ -1,88 +1,7 @@
 # Protocol fork information
 
-| Legacy Protocols |
-|----------|
-| Uniswap V2 |
-| Compound |
-| Aave |
-| Solidly |
-| Uniswap V3 |
-| Saddle Finance |
-| Algebra DEX |
-| Liquity |
-| Balancer |
-| MakerDAO |
-| GMX |
-| Curve |
-| Alpaca Finance |
-| Impermax Finance |
-| AAVE |
-| Platypus Finance |
-| Chainlink |
-| Reflexer |
-| Synthetix |
-| Goose Finance |
-| Shell Protocol |
-| Rari Capital |
-| Demex |
-| QiDao |
-| Alchemix |
-| Frax |
-| Autofarm |
-| Uniswap |
-| Tomb Finance |
-| iziSwap |
-| Ribbon |
-| Level Finance |
-| Set Protocol |
-| Compound V2 |
-| SpookySwap |
-| Tornado Cash |
-| TraderJoe |
-| Gains Network |
-| Swapr |
-| Trader Joe DEX |
-| Agility LSD |
-| Indexed Finance |
-| Fantasm |
-| ArbiNYAN |
-| Olympus DAO |
-| Terraswap |
-| Abracadabra |
-| BabySwap |
-| QuipuSwap |
-| Compound V3 |
-| Tarot |
-| Wonderland |
-| Tomb |
-| cVault Finance |
-| Yearn Finance |
-| Pickle |
-| BasketDAO |
-| Harvest Finance |
-| Beefy |
-| Bunny |
-| Basis Cash |
-| Morpheus Swap |
-| Viva |
-| Liquid Driver |
-| Reaper Farm |
-| Drip |
-| Solidex |
-| Titano Finance |
-| Convex Finance |
-| Defi Kingdoms |
-| DIA |
-| 0xDAO |
-| Based V1 |
-| Aura |
-| SPL Stake Pool |
-| Origin Dollar |
-| Lido |
-| Y2K Finance |
-| Rage Trade |
-| Olive.cash |
-| Vector Finance |
+The `protocol` field represents the names of protocols registered in [Solodit](https://solodit.xyz/).
+Please provide the legacy protocol for the `forked_from` field using only the options listed in the [legacy_protocols.md](./legacy_protocols.md).
 
 | Protocol  | Forked from |
 |----------|:-------------|
@@ -271,7 +190,7 @@
 | Marmo Contracts Audit | |
 | Solo Margin Protocol Audit | |
 | Pegasys Permissioning | |
-| Compound Audit | |
+| Compound Audit | Compound |
 | Slock.it Incubed3 | |
 | 0x v3 Exchange | |
 | Atomic Loans | |
@@ -280,7 +199,7 @@
 | Recoverable Wallet Audit | |
 | InstaDApp Audit | |
 | 0x v3 Staking | |
-| Compound Finance – Timelock Audit | |
+| Compound Finance – Timelock Audit | Compound |
 | Fairmint Continuous Securities Offering | |
 | AragonOne — Aragon Network Presale | |
 | Orchid Network Protocol | |
