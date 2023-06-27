@@ -5,7 +5,7 @@ Please provide the legacy protocol for the `forked_from` field using only the op
 
 | Protocol  | Forked from |
 |----------|:-------------|
-| Beanstalk wells | |
+| Beanstalk wells | invalid test|
 | Notional V3 | |
 | Llama | |
 | Sudoswap LSSVM2 | |
