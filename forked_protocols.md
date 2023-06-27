@@ -190,7 +190,7 @@ Please provide the legacy protocol for the `forked_from` field using only the op
 | Marmo Contracts Audit | |
 | Solo Margin Protocol Audit | |
 | Pegasys Permissioning | |
-| Compound Audit | Compound |
+| Compound Audit | |
 | Slock.it Incubed3 | |
 | 0x v3 Exchange | |
 | Atomic Loans | |
@@ -199,7 +199,7 @@ Please provide the legacy protocol for the `forked_from` field using only the op
 | Recoverable Wallet Audit | |
 | InstaDApp Audit | |
 | 0x v3 Staking | |
-| Compound Finance – Timelock Audit | Compound |
+| Compound Finance – Timelock Audit | |
 | Fairmint Continuous Securities Offering | |
 | AragonOne — Aragon Network Presale | |
 | Orchid Network Protocol | |
