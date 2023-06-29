@@ -3,7 +3,7 @@
 The `protocol` field represents the names of protocols registered in [Solodit](https://solodit.xyz/).
 Please provide the legacy protocol for the `forked_from` field using only the options listed in the [legacy_protocols.md](./legacy_protocols.md).
 
-| Protocol | | Summary | | Forked from |
+| Protocol | Summary | Forked from |
 |----------|:-------------|:-------------|
 | Beanstalk wells | | |
 | Notional V3 | | |
