@@ -16,11 +16,11 @@ Most of the initial tags have been manually appended by [Hans](https://github.co
 ### To add a new audit firm, follow these steps:
 - Create a new subfolder under the "reports" folder, and name it after the audit firm or solo auditor.
 - Include two logo images specifically designed for Solodit.
-    - logo_256_256.png
+    - logo_256_256.png -- *sample*: [Cyfrin square logo](./reports/Cyfrin/logo_256_256.png)
         - type: png
         - size: 256px * 256px
         - background: transparent
-    - logo_450_225.png
+    - logo_450_225.png -- *sample*: [Cyfrin horizontal logo](./reports/Cyfrin/logo_450_225.png)
         - type: png
         - size: 450px * 225px
         - Put the name of your site at the right side of logo.
@@ -74,7 +74,6 @@ Most of the initial tags have been manually appended by [Hans](https://github.co
 ........
 
 ```
-
 
 Please refer to the chart below for further guidance.
 
