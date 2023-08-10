@@ -1,208 +1,35 @@
-Hash,Name,Source,Max Bounty($),Total Paid Amount($),Response Time(mins),Languages,Product Types,Project Types,Ecosystems,Program Types,Last Updated
-c38cd80742732139f564c3a5c89d9d92202830d6fd93a295a2395113a519e674,Chainlink,Immunefi,3000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-16 15:47:15.377000+00:00
-3fc440708115c78c066279e97c1877543cc294211d710f480fb6d2e1345d6f36,Wormhole,Immunefi,2500000,0,0,"Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust",2023-05-05 04:39:52.802000+00:00
-4677c74421d63f92e1c1ee3c13ebcb23348490046688fb601d6649ef0c09c029,The Graph,Immunefi,2500000,749488,4336,"Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust",2023-08-05 15:32:03.746000+00:00
-b2fd20ef585916140e0f6aaaccc798b7246568fe41aa014e08c61cebd78525c2,zkSync,Immunefi,2300000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-04-04 13:38:42.654000+00:00
-49c8a23d0d6a00bd3132c3bbb43597b817e2042f16ddd2731d6777c6dce73f20,Axelar Network,Immunefi,2250000,0,0,"Rust","Rust","Rust","Rust","Rust",2022-10-24 16:23:30.334000+00:00
-98c9360192777b182a29afef58ea577b72bf4051c113cd5c471325850d8005bb,Optimism,Immunefi,2000042,2177042,1809,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-23 17:10:10.854000+00:00
-3508894f1b28aa458d97b6083129dd6cd24a91e229e4b64dca563884a3e7bfb8,Rhino.fi,Immunefi,2000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-30 11:46:55.074000+00:00
-bbe375264bf5fcc4be15a9c0f8cac738f8892c636565977cb2cbfac85d66b2ad,EigenLayer,Immunefi,2000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-17 21:06:42.575000+00:00
-9fbccc49f69acbb9ca39464cbdef18bf32f8450b59a4dc6a4e849168faf900b8,Sweat Economy,Immunefi,2000000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-04-04 14:09:49.171000+00:00
-1ab2dc18dfb740386c2327bf4ad830a9a64c90aef18fff1f1f729f0e8b351236,Lido on Polygon,Immunefi,2000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-15 08:41:24.673000+00:00
-07324f5bb38b676ff576ddb0ee3ba8896e38665d6853d022431c635a2d04886c,Zodiac,Immunefi,2000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-31 14:56:40.236000+00:00
-38da8d7822fe8bb406770b3b344709aaf3e76c00c5675815244a8f76c8e6abe0,Gnosis Chain,Immunefi,2000000,25000,5344,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 14:00:09.874000+00:00
-3162df5fe7eb22c206ae1a557fb767d970609ed9ceec691f5a51b771e4f4cd7f,Celer,Immunefi,2000000,167000,2165,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 13:58:40.673000+00:00
-cdbad6cb12ead514e8e976b28fe099d2b24c77ff1d0cddb5cb9fe24dcc53f8d4,Lido on Solana,Immunefi,2000000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-04-15 08:40:46.941000+00:00
-9dec6c9907e24bf373ecfd4fcf21c11ee029886775b56986ac83b80874a88d41,Lido,Immunefi,2000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-15 19:14:58.303000+00:00
-98583643daf47a3e674788ca7bc6bb0809ad08d5a18f71d5df6c56169fa72908,Spool,Immunefi,1500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-17 18:17:13.998000+00:00
-0425b7ace0b436b57557252353fbcb2b406f5d80a6e716d8da3c4b3c71366fe4,DeGate,Immunefi,1110000,500,2718,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-07 02:39:28.264000+00:00
-7343a03203fe9a48aceca47f71ac585c51d24c22bae69926dfbc85aba59a765f,zkSync Era,Immunefi,1100000,0,489,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-11 03:31:37.639000+00:00
-fdda1595cc54e2ad63663423ce4f6f06b4e07bdd302fa98854e23e74ec935208,Reserve,Immunefi,5000000,0,595,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-01 19:56:12.400000+00:00
-4068e8440896b1c176a540f1750a11fd2c1ab067676c96b6d77d4684cdd0fb25,GMX,Immunefi,5000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-05 15:35:23.744000+00:00
-e5835f533713d29af3f9733d2c6b764cdc44451a3c6e33bcb45b5cb0d3d423bd,Olympus,Immunefi,3333333,260433,581,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-30 21:01:55.904000+00:00
-8b0a912a711cc3e9d39a68b4af9790966e82744d52d1f62c959760d9bbb47aac,Polygon zkEVM,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-07 17:34:52.370000+00:00
-e1c8f5a20ef05b9f83372afae8654eef293c4c08d9c05fbbe1d71cf877bc1b36,Alchemix,Immunefi,1000000,43605,3194,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 13:56:52.964000+00:00
-f0f8da15b0e91d2047b957154f104de0a8a19bc54c8b23faf57740d2c540ea72,Aura Finance,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-12-15 00:49:39.124000+00:00
-f2a9727d45c822dbb19375eed2e8b89e5b56795ea7bfdd96a28e3477a9e4b95c,Nomad,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-03 20:42:51.247000+00:00
-eccd897e85ce709f76598c5cb4717dc317d3ace14eda6fa5a9719948a87dc692,Aztec Network,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-29 00:45:06.983000+00:00
-9de8aacd6cb96f533b01ba4d39c06ca9150651ecb27f65a1105b35f4c6c937f5,Balancer,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-05 16:26:36.680000+00:00
-f22cb968c2fa847c0e032335d86a3b5fe9629298a29eabedf922bf48ccb32a77,Stader for Polygon,Immunefi,1000000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-06-15 15:22:38.906000+00:00
-6c36dda5a2b418d534118e0c6cf521bbb5b27401422999b769285a39aae290d4,Nebula Protocol,Immunefi,1000000,0,0,"Rust","Rust","Rust","Rust","Rust",2022-10-13 14:01:57.341000+00:00
-2f5766b04362ee479a0adeebc5635a1b28be6f92a090837a3382485d02317c18,Hakka Finance,Immunefi,1000000,5500,1303,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-28 15:41:48.882000+00:00
-834152ad15a1d983ed70666ad1cdd4bf63e12549dcfa2984905b37836d5b5719,Moonbeam Network,Immunefi,1000000,0,0,"Rust","Rust","Rust","Rust","Rust",2022-10-21 10:28:22.282000+00:00
-06d0baa9ae533872ee34c39f94371d6897dd93211085d3cd69884e0ac034e018,Metis,Immunefi,1000000,130000,705,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-06 22:00:53.117000+00:00
-2bc745cd9f4b884fdc216e78efabe02ca4c3d5428fb8fc650df82fab714a18c3,Gro,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 22:27:04.516000+00:00
-063811d48ee26350fab16e0ad4bd983d57cd864e28470b09d479c5da5a4f53b3,PancakeSwap,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 16:06:47.451000+00:00
-d8c4f334fcdde74d589ea6889a8e61b0abf81ac4b4b47a57e8ad4217cc309374,Sovryn,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-23 17:07:31.551000+00:00
-1d7d193fc2cad8c398ddd23468fc5e30784aa1498ccc0e7714e00f4db30227d5,Carbon & Bancor,Immunefi,900000,9647,709,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-19 13:28:25.519000+00:00
-58308cd11cee6521dc65ec619b20a6b06117cde87e4fef03ecbafaff05b24003,Morpho,Immunefi,555555,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-03 19:07:12.076000+00:00
-4898fe34aaa0862c0fcb67820a787d79ac80b71796a60119a3ca3c3f062f605a,Flux Finance,Immunefi,550000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-21 17:03:19.992000+00:00
-b59d4c22d1d05a7cd6d1de111305cb4ed2055ec3c3433c2900577798d2ed3825,Stader for ETH,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-10 14:07:10.965000+00:00
-a6ae999d1f65c79b2495974a8dc8b6ebd8b3451576a84517f71d515dbaa3c387,StarkEx,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-01 22:08:19.874000+00:00
-ae9b7bdd09116b3acf11645c7adb24218da609f35c33ac3408890f7c96f9baf5,Mynt and Zero,Immunefi,1000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-16 13:35:16.592000+00:00
-7c2507c70f6b60d9e3ff8a26aab1eaccd69a7de82a079ea17e3bb982ce014c03,Threshold Network,Immunefi,500000,53000,1229,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-22 22:38:49.261000+00:00
-5f1790c4da51727cc2797ad5fcfc40eba4740080f42883c9897c1878114ee45d,Filecoin,Immunefi,500000,0,0,"Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust",2023-04-14 18:02:33.229000+00:00
-5ae47e48ea3a8806f3429d3ac51d845364eff54bbae789fbbdc264da5a58f05a,Davos,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-22 22:22:42.883000+00:00
-6db6d056448830e5ee9f567ecb09075f06a081e0e081d7b3c18400fc13105e8a,Decentraland,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-01 14:23:53.229000+00:00
-52b078abc466a095df078748dab7e48a8b2c51d6053632a117a7fa62a33064be,Interlay,Immunefi,500000,208500,3413,"Rust","Rust","Rust","Rust","Rust",2022-11-18 12:25:19.717000+00:00
-2d8c8cd452a189e939e54eff5161e332ced2dd7708b7603180bd06a8be3227c4,Helio,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-24 07:30:50.140000+00:00
-b27291962e8a993ce26a5595d98615381bfef6ee124eaecae8c8e8b5f55c0179,Orca,Immunefi,500000,0,0,"Rust","Rust","Rust","Rust","Rust",2022-10-13 14:02:26.419000+00:00
-b615895e740de939beefed449e630d9f876f41df2e5b0fd78746138ff6d14d62,Wombat Exchange,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-16 07:54:00.639000+00:00
-dc095298db159e035acafdc1152cb4b0f2c02778f3ad3093e614257b9dc5ff8f,Maple,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-24 15:03:51.620000+00:00
-8d3d4df52cfb6b674a329998b56e87834fe62ce70bd9967c39169a771f37c9d6,Port Finance,Immunefi,500000,0,0,"Rust","Rust","Rust","Rust","Rust",2022-12-29 07:10:51.239000+00:00
-46b9c061e70f294026e4a7a70a491d15c3e0ad620b8a4f2f44a70cc70db0baa3,Buttonwood,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 17:41:10.737000+00:00
-00341893887cbd2619b3d687f683ec416b08864c601c902635da71342c1253cb,Cartesi,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-08 22:03:21.702000+00:00
-1a4e33acd1f0d7b707d1d09a6bd3259ff3242208fa353bd8ba4c67dadec4705f,Sherlock,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-11-28 19:46:21.861000+00:00
-cb5546e9e3cc5f17c688870853f3e119fa9421394598bdada02867728157a3ed,Goldfinch,Immunefi,500000,94250,2171,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-01 20:30:35.606000+00:00
-fcef710a044799b6d09c48765355978c09c0d19caead67dcf060b86f997d9834,Rocket Pool,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-04 16:35:11.394000+00:00
-624b18aa68e27b9b1aab5bd250360bc62a9b988616096b318f19d884671cd4f6,BENQI,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-28 00:51:14.883000+00:00
-decd1509a6561ceb292a531abc6df04e0531d66d5af4c289b751b01921da3c99,Composable Finance,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 17:45:00.388000+00:00
-a04187207a92ae46f9adac9ec159565525761fdc69a4daf023cf3d2a1e7a9706,Alpha Venture DAO,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-17 21:16:18.392000+00:00
-0117e8b00114b826461d31eee351418825a514523d40d2df28f35e6c22e0127f,Ajna,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-09 17:34:53.609000+00:00
-0df198e392d5e4a9beadb4a581e98cee0cd2fb4c4355ef6bcc27ae5697ce998f,Hook,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-31 11:55:02.733000+00:00
-e0c74553c11c941d641677c136302a210942c019001a60b9c3d0047ae2eceacd,Kwenta,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-15 13:07:06.615000+00:00
-5e8e5f4b7b5b99c57910590dc00a3d0bd60b95bf7126bdfc5f9327dee7e85a75,Timeless and Bunni,Immunefi,250000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-05 18:38:39.484000+00:00
-a0d9c39859ccf662cf330689e6034e50eed1f3130837a5b06a32263b5dd3b0f2,Ondo Finance,Immunefi,250000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-07 18:58:47.635000+00:00
-fd98ab6acb6a82ca6b16ebe8f249b27680b46ca2a8e017c55b51e928bce35b09,Furucombo Funds,Immunefi,250000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-28 22:16:11.431000+00:00
-ac300efac0bdda24e29c4ac5d1506db82303163e580bcb9dd123d030fd21a698,Astar Network,Immunefi,250000,0,2748,"Rust","Rust","Rust","Rust","Rust",2023-05-20 03:10:38.066000+00:00
-bbd7d6bd52320dab20b2c18af215e95e4ae552b818438f56481a5cde8f415ef9,Marinade,Immunefi,250000,0,0,"Rust","Rust","Rust","Rust","Rust",2022-11-23 19:36:35.814000+00:00
-a001195f59e7f26a08e8c27a8d29a747faa97f544663d06222b3bc6df5e367a7,Cronos,Immunefi,250000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-20 05:04:31.666000+00:00
-094dbf24124209effd7c0cde2aed5ea4818f2151f40996acc3ff5512c1744fe8,Notional,Immunefi,250000,0,135,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-03 14:09:52.173000+00:00
-645fe360abc16fbe35fe5290223668e14b5c0fc2aaf4ef211adfda982bdd35ba,Instadapp,Immunefi,250000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-17 18:49:08.328000+00:00
-95016f0772fa9aa851bf79515441332f4a671c4a4b4211a5c69ea58e47d3dc3b,Tokemak,Immunefi,250000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-12-07 20:48:01.357000+00:00
-5069bc71523e7225f1dc05e415ac509ce81cd042e694a7394bf6434a936b2f7d,Pendle,Immunefi,250000,0,1914,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-05 18:32:43.426000+00:00
-221ac405059cca97feab1e4ef0438b395d45ba518caaba15ef404cee0df7baf9,DeFi Saver,Immunefi,250000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 13:59:12.524000+00:00
-a36877a8a6a9b6fd811a3053b84d5d37558d2904f10146daed9294b6159729a7,Perpetual,Immunefi,250000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-24 16:27:21.887000+00:00
-01a71f5d2819ca1c57224d348b25fde81a0210b7071ad9d1991bc400b9e53e79,Radiant,Immunefi,200000,0,6439,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-15 15:03:09.705000+00:00
-1b6762b20024dfda6e8b38541ce4f3e27ba5a4541d25bd267e152241ad2296dc,ParaSpace,Immunefi,200000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-22 17:30:35.658000+00:00
-ee75efc9fe3b8a9eb69f0b5460f99ba6c9cd6a2d68a009158de1bbc9279f7493,Gearbox,Immunefi,200000,343000,419,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-01-09 14:39:47.361000+00:00
-03d2f97285e4d331c9cb9f1c75a729b2a88a735e05282b61e566f8492e377db2,pNetwork,Immunefi,200000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-26 17:29:13.269000+00:00
-1b59549a440bf383c50f7cfddac3f1de18340abf0ab994ec86dcef54b51e9561,SpookySwap,Immunefi,200000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-24 16:25:31.646000+00:00
-8638b396efe47d393109b1290a1c2b3efa377889b46d138c17185368c13878fb,Gains Network,Immunefi,400000,118000,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-01 21:42:07.807000+00:00
-61d36ae07b23a5fc6b6e25165dc6dd30c75ae6c9ff484057975db29b28b1e254,Enzyme Finance,Immunefi,400000,536000,114,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-28 00:42:55.201000+00:00
-1c73824bf3375e889a84a8393072520be48372d7f89a6b76b29d71cc0a9badcc,Ribbon,Immunefi,300000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-26 17:14:11.899000+00:00
-94c3d113f6ca6988b1c78dba9d01cbd990fa821133c8919680a3496a2545c068,Popcorn,Immunefi,150000,26000,4397,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-28 17:05:45.157000+00:00
-d9ace973c6b8736bbdc0e4793e9b5811e99d1035fd0087fd91a1a4d2467bea13,88mphV3,Immunefi,100420,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 13:56:46.842000+00:00
-ba274415dbf68cc5513c13ce70472c0759fbd4a5eb56cebb301322a9e2f5d3bd,Bonfida,Immunefi,100000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-08-05 03:10:01.401000+00:00
-3d07ce9b1879c7b9c2a41b4e1126c6b614d03f709f06e464a1e45bf15b429fae,Utix,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-27 19:08:16.478000+00:00
-0a0957a4776a053d2d52c9bf998ee07e1dbfb9c5379c207147bb61760b71ae5a,Linea,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-11 12:13:01.551000+00:00
-a42e4ddc1275e6b85c333068644608b5cbf110d58054a5fdaf260ac0bb6cdd11,Velodrome Finance,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-19 16:14:42.923000+00:00
-70267788a064f6426b9556f158fbb576c792600eec5ad5591b04f35fc0b28e98,Push Protocol,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-21 17:32:20.276000+00:00
-60d504516811738b60c81da7bfed8ec986b748899a5d38bba8b8a0c6265f5f96,Lybra Finance,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-30 19:51:23.544000+00:00
-74fe7d9afeaed5c2961d066edb946d5297f4f28169a520d8025283e40b18a3fe,Trader Joe,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-19 14:13:58.870000+00:00
-6a45762c19ee5e1fc93c4af076bc85c0f3a0fda6f6df582418d4eb8c976050f4,Chronos,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-03 05:32:32.453000+00:00
-1df814a26b844266cc1a411d65d1f85271fbb380a6571617fa852f1a5a04ba0b,IPOR,Immunefi,100000,1000,646,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-19 13:38:54.877000+00:00
-33b2e0fb8bd0d0bb6574b2cb6167a40cdbb74c686af4b4200da2429b3675bc89,Uniwhale,Immunefi,100000,21200,371,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-01 11:54:43.137000+00:00
-afbbee70e8e4ff1c9121794e3ef2aa55d29c2e85f47eb656f756d6512d3196b2,Metronome,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-23 16:27:52.205000+00:00
-3307881c00a7abfdd2aac79c19078f548a1a58637ff05b1a92e8e8da90c08dff,DFX Finance,Immunefi,100000,128000,2915,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-13 17:56:49.386000+00:00
-ca47c283b0a19950a39fb8788ce381d3d79646eeda8217d6e2654d422480fd4b,Mars Protocol,Immunefi,100000,20000,0,"Rust","Rust","Rust","Rust","Rust",2023-08-08 23:00:52.311000+00:00
-4ac495616c61941c3da825c6ec9a5f7796f1afb16a005d84343efff95816f78f,Pods,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-01 03:15:43.463000+00:00
-c3205e05cf93a0363684527d16c2fe6e2d80a8ce1f98c983a1e90fc288b5f09a,Geode Finance,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 15:58:14.915000+00:00
-b28de340c0da93fef847e092ba4a1d2d0fc33d04b0ce3b6ca0a5da5369277cf2,Revert,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-11-15 18:26:02.847000+00:00
-b914464e0448b36193b0ef0b08b63bbfee4a0a0ec4c449914869d8791a023fea,Router,Immunefi,200000,103755,7048,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 14:03:24.991000+00:00
-040c20486e8fe1e0113e36e5baa4245b4c32ba602275e247d5e8e24c8fccd244,Yearn Finance,Immunefi,200000,207500,156,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-17 20:30:58.691000+00:00
-93c983dc3604142f5b941c271a4b90c24e0caaf76c9655277a3991489fd0f9f8,SushiSwap,Immunefi,200000,469101,9577,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-10 22:27:11.520000+00:00
-2460a5aed592069968217d1c51da5df5f5f8c7b8d4344585d7ee2510b0777ccf,Ocean Protocol,Immunefi,100000,666000,12699,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-04 16:53:40.990000+00:00
-545484e054aff9967aa6e24a9797318b9d0e7d92f66e92477b928b2cc68e4274,Sturdy,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-11-01 15:17:22.106000+00:00
-df13a3dbf1ad2a7ed31f61b285b352ee3931a625cfd941ef4e221c228feab8e1,Superfluid,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-06 03:27:31.742000+00:00
-57220785d0edcd15e260455c7d5e55e1f751f0248e8ed0d638d225bfee09de17,WePiggy,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-12-13 04:26:39.424000+00:00
-4dd46615ad415110840134dfc11fe7a6e7a2134efa597ef7eb2626068ba49dd8,WOOFi,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-14 16:15:30.597000+00:00
-b59c76eb8c6722751b0dd57a0bce798a3970adc3caaaa494fc41e54dd0587417,IDEX,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 14:00:39.620000+00:00
-1b0566acf3b2fc5968c0cb220027f840dc408f5925fa19f81bac981d4047c6a8,Astroport,Immunefi,100000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-03-28 12:35:43.750000+00:00
-87f02f23d507a77e7ad009b2c4ef19f5e0353a6a55141897844f2a84c6625fa7,Rai,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-01-02 22:09:55.791000+00:00
-e5cb2161664f80a226f1491e8664f8e28e442dd278764da3019d93ab65067024,BiFi,Immunefi,100000,250,2133,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-18 15:15:40.902000+00:00
-3114bd2b3c9a88cf16cc396de03cae444717b92eb2043dc6f37e19bdfb19ddc7,Polkastarter,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-19 23:06:57.350000+00:00
-ca20c8d22f1443a3432df4bb395bab083c7fb4b486bc0ebac7c8877f85ed8aef,Jet Protocol,Immunefi,100000,165500,10542,"Rust","Rust","Rust","Rust","Rust",2022-10-13 14:00:57.922000+00:00
-e0ae3f23ab0880995a159b6d92efe644f5ced97d06afa6f9374b749ce2fb3831,Popsicle,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 17:43:58.012000+00:00
-b8ed643f6e6145c5a681da2a7d9987a3e7b682db93c6338123ed327b07745aca,CoinFLEX,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 13:58:52.017000+00:00
-9517229eda1f7fb76aee09a4cb956f09b21dc0471a7f17f7a5f5beb4cd1719b2,dForce,Immunefi,100000,0,4472,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-11-18 16:08:44.318000+00:00
-13b9a67af141f84cbb5d788999a2f311a6bfaa7dca12afebf03150ff348114ce,BProtocol,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-26 17:43:46.203000+00:00
-439b674c7cb8381652c159898b643a9d2fa6ebaa9f9d8931f4b90a48963eb594,Alpaca Finance,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-03 05:38:05.058000+00:00
-cc3e42a14d87253b88b9603750dde6b076df51c3f64cd18cc53ed05b33e125de,MUX,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 18:34:18.748000+00:00
-051326179bdc092b3cbfb1d557f8326fc581ec7a3c1ba25c882767b9e6f07db3,DODO,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-07 17:38:25.510000+00:00
-d302f66820e7e6f6d747682435ab7a3390c3981d3a7a7ecbe3800dedb80a19e5,Shadow Farm,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 14:03:32.794000+00:00
-b4c9c8115aaaf958f5e00f31c80bcd3849ff06146946f4d27fe00572c68d4f49,Ease,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 13:59:30.748000+00:00
-efa46056ec8491f418136b9b5c5104d4a87bd7ba02be960223a7ca5fe29c2424,Summer.fi,Immunefi,100000,26000,2093,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-26 16:44:11.985000+00:00
-abd6312a413a3687dc05770b267e013f5429c16d3cb02c278235b0a93f0f387e,Synthetix,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 17:55:10.327000+00:00
-e1b206172f17482f7379f7a5f55875a7e0768c6a61dc8273845183858841a170,Primitive,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-26 18:24:35.567000+00:00
-e7886b525dfcbe560234ced1ded9f72eed2c45b40090874241124d7d070203c5,Harvest Finance,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-03 22:28:45.597000+00:00
-554ce0ab5eda87f4fc2397a18ae3b0673ba20bc8a7c2d548494b5b0e65bb5a12,Impossible Finance,Immunefi,94000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-04 14:47:47.023000+00:00
-dbb0514b1e41336642648fc5289c91a311b5936c70c781c5b1686dae9cac1f8b,Forta Network,Immunefi,80000,86100,10580,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-09 14:10:15.734000+00:00
-93470f9cb614c8935661c876ca7ecb0cab6008a90534fbc24b50364c8e362cd8,Horizen (Gobi Testnet),Immunefi,75000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-04-21 04:07:57.093000+00:00
-1b90676d150243cca15096478b2fe427efb2969dd40e914be5dc2fdee223b0a7,Bond Protocol,Immunefi,75000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-16 17:09:19.331000+00:00
-b6d03df5dad30c552d3c90be8cc5c3fe71d0628ddf7bc48be90aba81ccc9af77,Beefy Finance,Immunefi,75000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 13:58:04.474000+00:00
-5cb5617ae84a7bb96081249cd991722e957279e7ce1b43b66891e55b469ba99d,SORA,Immunefi,70000,0,0,"Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust",2023-01-29 03:42:33.646000+00:00
-9b9883de9ea1829a407de9f6a03f230a4d8859173c4f64080ac45ce03a599939,Mars Ecosystem,Immunefi,60000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 14:01:31.125000+00:00
-2c211acb55f06b540a0777c3df76811e1ae1bd46bd89cef7dabd0dc904e6db10,Paladin,Immunefi,60000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-25 10:07:32.439000+00:00
-ffc50e81fc45d7f4bd5623af8caec3e4f7ef7429aa46f8b30a6226bc0a174198,CoW Protocol,Immunefi,54000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-01-25 16:12:24.985000+00:00
-f3e4b7d4d1dbd33f08b2a069248da507facc1a3438d73a1bf4d2ecc342aec137,MetaStreet,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-02 22:08:53.605000+00:00
-f326876ae74ec009b0afb3d5228b8cacf147c8117034253afacaa5f23aebc961,Axiom,Immunefi,50000,0,0,"Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust",2023-07-25 15:11:37.168000+00:00
-3678983bc90f28d8adb6f48c6ac3e72254ae86c4a9fbf4c310bbe6aaca3e33fd,Gala Games,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-17 18:13:21.863000+00:00
-4011e02ec1c4f8aa46407ba857e56d8d505efde1e78269a6fee3650631370e49,Sommelier,Immunefi,50000,0,0,"Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust",2023-05-24 13:57:08.498000+00:00
-b27f4d89f25e8b998b45e318787e0dee3f21f6631944c8f32abbd87b3f946908,Sense,Immunefi,50000,91000,6329,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-17 17:08:35.097000+00:00
-b4b0ee4a8106d7c81cded7ca9856a48441e13e43ac0963a8b384ad1fb9b20b41,Vesper,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-21 20:23:11.029000+00:00
-0cfb6916e722c269e2e94e65bfddace1af43aa422222b5306eb628a9f522cd51,Saddle,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 18:00:27.766000+00:00
-18c9222d7dd6faca0985867169ee39220edadf02ec7ce0511651f8809f55dcb9,Idle Finance,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-29 15:05:11.918000+00:00
-b7572c6dcfcdc9ccd0d530d9f0801462e5fe5c17282e63827e527e2e5c65a2e9,Lossless,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-11-18 16:54:50.248000+00:00
-87c0bf1c08cd82f1816e5dfa19c3fe7974ad0373a0d04195cd96a15341add96c,dHEDGE,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-21 12:32:50.755000+00:00
-fee39b3394eab2ef91e1881666d10b0a0e209e11ea578826ac77b8a22d3fe9e7,Gamma,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-31 21:26:32.126000+00:00
-8ac293ceb2fcbffd286480a31f2b32af1bf188e30d149fd102ed3ed669756c5a,LatteSwap,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 14:01:07.397000+00:00
-7ebda9efebf4d3858911af830558dd7fd2c97e0c21dfe764b666f7b807659978,Lyra,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-01-16 02:51:21.020000+00:00
-6f6338d40ed41c3e88c68740e8fd70b4d3e8efff4933e6f8cfa21f197a248a1f,Ichi,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-04 16:58:14.354000+00:00
-fb0559fe2c94496aef4c0efdc3de645cd5bd483c0aee25ffbe04a0c43f738b75,Foundation,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-13 13:59:50.102000+00:00
-f820361fb7209502baad2798974e1a83b5abbb08818d82833b2654bb225c0fb6,Integral,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-04 16:55:29.215000+00:00
-811493e70b189b1814e021f3312a40581d10793be09a59ceb6e6831c155e54eb,Nexus Mutual,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 18:33:09.615000+00:00
-079da6afc5ac821f46c533b81ad3f9d089942583a18311a399a5770d65c355cd,Immunefi,Immunefi,50000,18736,1385,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-16 11:08:29.742000+00:00
-b94544f46715f0a6fcb19454ba110613d824e45c8fa7e5eb4b52a49ec37b3fd0,Serai,Immunefi,30000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-08-04 16:09:35.543000+00:00
-67a645878b81ee29d1a2017a0191af8a3f00956bdacf263a23600d46e61d0813,Boson Protocol,Immunefi,30000,117000,11004,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-04 16:37:45.283000+00:00
-a80a2847dd42fcc1270d46d554b0e56f2836b94f49cd1f96952270b3ad080f18,Zenlink,Immunefi,30000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-03 12:55:45.460000+00:00
-8b9c66563aa1a202111b01105759dd62533d1d394f495890eac24e17359d94be,Duet Finance,Immunefi,30000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-24 16:23:53.737000+00:00
-51dccc20fcb4f206b96d3bfcddbe6c5226de4987a6afbd6b148f6baf3c88d067,Rubic,Immunefi,25000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-31 13:49:19.746000+00:00
-84cafab3f3c419c312ca9836dfaf275945578dbe7921d7e4c26fb56731806312,Cyan,Immunefi,25000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-13 03:23:06.962000+00:00
-69d270dac3c732133e7f73c8e4d232e04a951be0279d8b285a7ef68c84aa3cc4,Sector Finance,Immunefi,25000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-12 01:12:54.368000+00:00
-b5c0087e2035f717bf45ebf4740839a84e7cd92c20836a2775b058ed84275cdd,Aloe Protocol,Immunefi,25000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-07 19:24:42.841000+00:00
-0dd2d90df1bdcecdb324759d206a83f446bfea695401d6e9bac4e6a9a3d88817,Liquid Driver,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-06 22:03:57.961000+00:00
-3d4a605b13cb832abdae9827e41d8056873bd2200c043d688c2a4552758bc47c,Ante Finance,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-11-10 18:26:03.687000+00:00
-c5cdbea39c73c86d90ab7fb091fda591977ed1ffa6f88663db2c17efe28e1b78,MM Finance,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 17:39:32.824000+00:00
-fb59bf2a59361f0e1753e431ae3a1b1c3ec6baf438028b73d45a2aad1af30a7b,Request Network,Immunefi,20000,0,0,"Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust",2023-07-31 18:35:17.618000+00:00
-d5fdc193e0d11af2262c51f0c1b083f3add6c78a950dfd338113de96e510d042,Local Traders,Immunefi,20000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-22 17:35:33.524000+00:00
-6b83da7e6bf60334c8cf745f365219e7b9678f4000d0d423fa2a661a585ff34e,Nodle,Immunefi,20000,0,240,"Rust","Rust","Rust","Rust","Rust",2023-06-01 02:20:09.820000+00:00
-bc1d4435b45a70415f6aa17dcf7b9f5c84e414e0415be9dc22f53c560a81f68c,MetalSwap,Immunefi,20000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-16 16:59:22.248000+00:00
-1834b611db7baa5b70f9d82060ac09cbff96ac5bc8fca3dcab6dd389e8609f29,MYSO Finance,Immunefi,20000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-16 16:59:55.069000+00:00
-6d1a2d9d53d5b5afd58f6268cb98d0384f775d54e5384e63745dd36b83f3f5ef,Unlockd,Immunefi,20000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-03 19:37:28.470000+00:00
-eb840ed0de4c7898df1f970a35a9007f924dd07cc820d0bd476d8be66e46d8ce,Predy Finance,Immunefi,20000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-18 15:00:01.501000+00:00
-10d4e753c0c995dd625f3062edce35ea1dc5f992eb7ff8ca1500d6099658674a,Bifrost Finance,Immunefi,20000,0,0,"Rust","Rust","Rust","Rust","Rust",2022-10-13 13:58:19.528000+00:00
-3f943642d804a0b62b3f8a492d68d55bd662f9a7598656ea96fe08a99e15e1c2,WardenSwap,Immunefi,20000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-20 13:43:10.841000+00:00
-feb1e512e5de08be865764b5681cebc68747140343a1547c66c1b00e9c47ba91,Charm,Immunefi,20000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-08-09 00:03:22.182000+00:00
-b88aeb576503d65a39b01659b7b1e34d072d4beb6a05b8ef61febfa463b035f5,Enosys,Immunefi,15000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-28 19:25:14.276000+00:00
-4a9c5b76a5c840c702ca9c9ea3547556a93c86a8235c22f9941c429f43d51dd7,Tapio,Immunefi,10000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-25 05:00:50.879000+00:00
-4b4ba4a96247eaee6abfe170bcdc1eaa0878bc738809788faf5cdef225044755,OPNX,Immunefi,10000,0,0,"Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust",2023-06-02 10:35:44.409000+00:00
-7e7be25d9b292b5a93c6299bdb3b87260cb239bd02cdee884dd83c270db00560,JUSD,Immunefi,10000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-19 13:55:31.549000+00:00
-fe25ab2e7229c748be21d2e5afa79d6fef39169e1c16eb28b2ef2b241b1d7f01,SPOT,Immunefi,10000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-16 17:05:59.313000+00:00
-a624a37006a91061202e6d79819bd0bf365bc24e0f9baf7655cf4c00b431eba0,Moola,Immunefi,10000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-03 20:49:45.801000+00:00
-1f967a120142a2c80263aa5b2111bdf52e0ed9682d243a96aa2c15975df01bb4,GYSR,Immunefi,10000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-20 22:46:18.412000+00:00
-351b61b01dd2bbcb02820a23a3cac5f3dc874262e41630471cd63ad1f7282a99,ApeSwap,Immunefi,10000,24773,3316,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-20 18:20:40.776000+00:00
-acc2beb1b162950957cd13bbe08b4779695151082280f5e09048b9d3f63bc699,StaFi: rDEX,Immunefi,25000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-07-10 00:56:29.584000+00:00
-42b433b438154e62bde6e94bd0ac261aae680e4b810731df9a156af53ba2419c,KogeFarm,Immunefi,25000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-24 16:24:22.026000+00:00
-89e4bce707a81b65d15516b309188a16bfca20576ee2689313f76a603f5a4457,Tidal,Immunefi,25000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-22 17:17:21.651000+00:00
-b99baae8fb584330f7d6b52bc26c373296c4bbe35446fe4873d3cab7776a1bca,dForce AMM,Immunefi,5000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-17 18:11:21.869000+00:00
-80a50f9334b6b109e69639556e5bcf2cdadeca4cb57a4b4783cba4e0945c0b03,VersaGames,Immunefi,5000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-14 18:08:47.813000+00:00
-9b8f319b1e18503c89a83e19de18b63874c8a03b6f2aeab00730273b7b3cc774,Tender.fi,Immunefi,4000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-16 17:07:07.019000+00:00
-ebd02e8e2366ee24542636654f8c8c916a781b5f877eab54ccb23ae362ca8f84,Stack,Immunefi,2000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-06-08 15:16:16.081000+00:00
-bb6f46aee0d8c015453eb253bccc847841b1b0f7ced292b5509397c5b45410e8,Pillar,Immunefi,1250,100,11205,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-18 15:25:37.454000+00:00
-3ca2c9a082c1529931bdf74416622bbe6007d928539336ebe963b08e306d8d54,RociFi,Immunefi,1000,15500,11657,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-02-16 17:05:26.712000+00:00
-98fdfac470ab01b0886a2e27edfae9ad586e28227a28503d6ff640d93ac0ecc7,Money on Chain,Immunefi,10000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-11-01 20:13:00.752000+00:00
-89ecea3f6cdf67dcc41dd00f46cafa7b5c33af5b35b2ad901b8cfcda887ee5cd,StakeEasy,Immunefi,8000,1000,0,"Rust","Rust","Rust","Rust","Rust",2023-04-06 17:27:29.328000+00:00
-0bb6fc79e08a4dc216fd0bde3a468a42fa22861fff06f0b2e3c3d266c3e26e51,SuperBots,Immunefi,8000,1100,9065,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-04-18 15:03:54.713000+00:00
-2e9c650036d7ac3439c23720be73f5fcb2960d00c2210e18f8d8840fd0043473,Zerion,Immunefi,25000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-12-29 16:08:53.017000+00:00
-b633a227e41fc9e5963e2b7ac167f741fbbf8ee3d89e4bf6b07ef4d7193d93da,Beta Finance,Immunefi,200000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-01-31 14:39:13.616000+00:00
-70fcc5c6df8f3f08991fb612066b546e523161a93b5356aad61b4ea85d5fa477,Revest,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-26 14:39:43.112000+00:00
-b1e772e1b60eef3582308e59863484cc7089425114e1476307a5768564aba293,Element Finance,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-08 18:01:26.801000+00:00
-d29729919d2322eb768c40e2e45bc7bd5c543b1afcf1b38033790183a5d1135f,LayerZero (The World's Largest Bounty),Immunefi,15000000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-17 16:15:29.054000+00:00
-4fd5542fb653d2458005072af1d241b3f3414b488c3d9b7e5270eb79223a828a,Polygon,Immunefi,1100000,5740026,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-05-05 04:22:57.892000+00:00
-a59de858d5d396978f92fcb2800cba23f8a0cda046326606cdef3b7c299e47ed,Origin DeFi (OUSD and OETH),Immunefi,1000000,12700,422,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-12 00:27:17.178000+00:00
-f49b444107592d4af62ad4d7a1eb1e5c4fb7fdfcc5697959295bde13cf20dd51,Raydium,Immunefi,505000,0,0,"Rust","Rust","Rust","Rust","Rust",2023-04-25 12:04:46.557000+00:00
-d0435ae21168c8662f96d2831d4e0468f73ace01109865352bb2460f233f8c4f,Badger DAO,Immunefi,500000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2022-10-18 13:35:45.956000+00:00
-d7d9cfa6e7d4ab1e521723ced8b3d6e69d6f5d81a8255845742b6c4a339e2efa,Shell Protocol,Immunefi,100000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-07-10 19:55:51.735000+00:00
-f4a65b54e16aa71be89de38fede9f9cdd9af5f7b189a9955a5f210d7057b3201,Tropykus,Immunefi,50000,0,0,"Solidity","Solidity","Solidity","Solidity","Solidity",2023-03-28 02:30:23.850000+00:00
-23dd04caafafb085aea933f59fbde5dfbc3ba363039be61a3438d1267ca4bb5f,Yield Protocol,Immunefi,250000,147600,2370,"Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust","Solidity,Rust",2023-08-04 16:39:56.435000+00:00
+Hash,Name,Source,Max Bounty($),Total Paid Amount($),Response Time(Mins)(Editable),Languages(Editable),Product Types(Editable),Project Types(Editable),Ecosystems(Editable),Program Types(Editable),Last Updated(Editable)
+b99e89540be6f05997064e2ea0b5b118998267555dc7ab1bc96bc11ef5175fcd,InsureDAO,Hats finance,0,0,0,"","","","","",None
+6f37b85e3d8f9c57a7b337a157546dd541f87daaeddae884939389c49de17d33,HOPR,Hats finance,0,0,0,"","","","","",None
+b00414c0d67c7136641ee7c80f4d9ecb8d4490c7e9c2535c96aae429a759c7e8,Holyheld,Hats finance,0,0,0,"","","","","",None
+972a1e3f80c48686de57f6d40dc54e68364b362e2035981dc471c4cbd03d6329,Paraswap,Hats finance,0,0,0,"","","","","",None
+b6c01d0300958cf8f339e5b8405461860d76eaeeb7bcf7f242a7e51529c5150a,Inverse Finance,Hats finance,0,0,0,"","","","","",None
+d0fc391f6d0f28dcd2621c6c748bd9e2869ff7451118c715cba33dacf7d5cd02,Paladin,Hats finance,0,0,0,"","","","","",None
+162cdd88f9a934230274834d4151c9545d93c699c452de8154e57e7df0d25324,Liquity,Hats finance,0,0,0,"","","","","",None
+aaaa5ccb1d024f0f0ada4ba4c1f3a27e18a04dc54c515913d3b8ba20f12671df,ICHI,Hats finance,0,0,0,"","","","","",None
+13adf34fe68e433a6ca53206db594d6df84336265ec02f368dcae7b6a16e4b6e,ARTH Loans,Hats finance,0,0,0,"","","","","",None
+caa1ef552c9063db4f6a1465e99b67f051945fbfce94df2abc76b17d80e5a9d3,DXdao,Hats finance,0,0,0,"","","","","",None
+55c1e58b477ea784170c209b0ec25e71664be81534d174481710ba761310d592,B.protocol,Hats finance,0,0,0,"","","","","",None
+dfc46b6b29eac35a27318145e845a5a798e2cdf5a7a1dd5f40af76a29655ae25,Swapr,Hats finance,0,0,0,"","","","","",None
+e806f684403a4a497ad91d4d40bcdde21c17be4b5c768e7ebf5c3c1da0a14cb6,ChickenBonds,Hats finance,0,0,0,"","","","","",None
+2384a08c641e1d688f5671fb2fdac533eed506246d3892b0c0122a5420b2dff7,UMA,Hats finance,0,0,0,"","","","","",None
+088da22a8820e37965e341ef8b089b4d6a5c65b4b677272d9b3e6058e70fe2b4,tempus.finance,Hats finance,0,0,0,"","","","","",None
+e9a37afe15c0399a8231a7247b24edb7ac34b5b9bf273630109982cc4fdaf751,Quidli,Hats finance,0,0,0,"","","","","",None
+39d331833aea58a7b5faec3e18583f42e2438ec2938e103bba9194cb67cc3110,Hats.finance (USDC),Hats finance,0,0,0,"","","","","",None
+3795b4efa3afdee3200604a3ec54a26964fd40682d12991095de0d7aa4aa87cf,Giveth,Hats finance,0,0,0,"","","","","",None
+020999219c88ff4a06d08dc143f9e354d14b5ed724851ae1484420c411d606ee,FujiDAO,Hats finance,0,0,0,"","","","","",None
+4b0d2a69ab0f96f73c82e6ade98311818974aa6bc919584435124cfe56fb2995,Spiral DAO,Hats finance,0,0,0,"","","","","",None
+ca938d4d8908b0794c46283ff8ab4b69506eb709d49c0e864e9f6d042d619077,GoodDollar,Hats finance,0,0,0,"","","","","",None
+adf0c43207587562c155b9fc31fd4dc6e1a8933171216c7d2d64003ecccd1afd,DeFiner,Hats finance,0,0,0,"","","","","",None
+965b38b6fae86d6bbc10207ed553f0194bc24557f31ee109e2040d88dab49c57,GTON,Hats finance,0,0,0,"","","","","",None
+f82c5e4eda46ba44c7d93aa545aac414205d43999dba22b3124d431e7c397679,Liquity,Hats finance,0,0,0,"","","","","",None
+887017c135a6ee2c02c8c5957799b62d6d6f9bc3e35c28da87d729b4050d7825,Idle.finance,Hats finance,0,0,0,"","","","","",None
+95a5b0aea39dda75009ea98f6acf55f18fc9b769b8d8c9fd038059cc85e34569,kleros,Hats finance,0,0,0,"","","","","",None
+292a7011d4de26ca485ff7e5a3adf6cfb104751e0a49180993f15484a4599049,TempleDAO,Hats finance,0,0,0,"","","","","",None
+6206a769951b3ddb93cc936e5d112972dcc6ecc319ac0b12c0332bb298d83793,Raft finance,Hats finance,0,0,0,"","","","","",None
+bb94b71b249fb722d5cff61ec0cb731a3cc39cc0e6680eb359a3fac46b373e7b,0vix,Hats finance,0,0,0,"","","","","",None
+48b7137c37d35b64889928b82194cb2237d56891fa0a3251733637cf88c1f614,Vaultka ,Hats finance,0,0,0,"","","","","",None
+9243181adf37c9f4692a0adea3db9598ea47e79940f492af5050244ca60f671c,Premia Bug Bounty,Hats finance,0,0,0,"","","","","",None
+f15bf7ee07e7bedcc42f0a4f2c33430eb117ef8cad757f7d2219c3a9f3455a84,CVI,Hats finance,0,0,0,"","","","","",None
+a7ccc88620b0ed0074bbf1870a50d32a6a03abc0dca96afeb37fbe59b343ff3d,Angle,Hats finance,0,0,0,"","","","","",None
+f55c29858c86d2b61b07781e8ab735813a7729b41578a3a8ee411d4bf897482a,Jelly,Hats finance,0,0,0,"","","","","",None
