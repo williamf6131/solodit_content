@@ -1,6 +1,6 @@
 Name,Source,Max Bounty($),Total Paid Amount($),Response Time(Mins)(Editable),Languages(Editable),Product Types(Editable),Project Types(Editable),Ecosystems(Editable),Program Types(Editable),Last Updated(Editable),Hash
 InsureDAO,Hats finance,540,675,,"","","","","",,b99e89540be6f05997064e2ea0b5b118998267555dc7ab1bc96bc11ef5175fcd
-HOPR,Hats finance,66732,88976,,"","","","","",,6f37b85e3d8f9c57a7b337a157546dd541f87daaeddae884939389c49de17d33
+HOPR,Hats finance,66732,88976,4336,"Solidity,Rust","Staking","Blockchain,Infrastructure","ETH,Avalanche,Fantom,Polygon,Fuse","Smart Contract,Websites and Applications,Blockchain/DLT",2023-08-05,6f37b85e3d8f9c57a7b337a157546dd541f87daaeddae884939389c49de17d33
 Holyheld,Hats finance,9175,11469,,"","","","","",,b00414c0d67c7136641ee7c80f4d9ecb8d4490c7e9c2535c96aae429a759c7e8
 Paraswap,Hats finance,21947,27433,,"","","","","",,972a1e3f80c48686de57f6d40dc54e68364b362e2035981dc471c4cbd03d6329
 Inverse Finance,Hats finance,16150,20188,,"","","","","",,b6c01d0300958cf8f339e5b8405461860d76eaeeb7bcf7f242a7e51529c5150a
