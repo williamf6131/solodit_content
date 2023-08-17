@@ -1,5 +1,5 @@
 Name,Platform,Rating,Max Bounty($),Total Paid Amount($),Response Time(Mins),Languages,Product Types,Project Types,Ecosystems,Program Types,Last Updated,Source(Editable),Reference(Editable),Hash
-Zodiac,Immunefi,0.0,2000000,0,,"Solidity","","Defi","ETH","Smart Contract",2022-10-31,, ,07324f5bb38b676ff576ddb0ee3ba8896e38665d6853d022431c635a2d04886c
+Zodiac,Immunefi,0.0,2000000,0,,"Solidity","","Defi","ETH","Smart Contract",2022-10-31,https://github.com/williamf6131/solodit_content/,https://github.com/solodit/solodit_content,07324f5bb38b676ff576ddb0ee3ba8896e38665d6853d022431c635a2d04886c
 Gnosis Chain,Immunefi,0.0,2000000,25000,5344,"Solidity","Stablecoin,Staking,Crosschain Liquidity,Wallet","Defi","ETH,BSC","Smart Contract",2022-10-13,, ,38da8d7822fe8bb406770b3b344709aaf3e76c00c5675815244a8f76c8e6abe0
 Celer,Immunefi,0.0,2000000,167000,2163,"Solidity","Crosschain Liquidity,L1,Wallet","Blockchain,Defi,NFT","BSC,Arbitrum,ETH,Avalanche,Polygon","Smart Contract,Websites and Applications",2022-10-13,, ,3162df5fe7eb22c206ae1a557fb767d970609ed9ceec691f5a51b771e4f4cd7f
 Lido on Solana,Immunefi,0.0,2000000,0,,"Rust","Staking","Defi","Solana","Smart Contract,Websites and Applications",2023-04-15,, ,cdbad6cb12ead514e8e976b28fe099d2b24c77ff1d0cddb5cb9fe24dcc53f8d4
