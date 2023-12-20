@@ -1,4 +1,4 @@
-| Id | Name | Funds Reserved($) | Max Bounty($) | Total Paid($) | Turnaround(Mins) | Languages | Categories | Registered | Last Updated | Sources | References |
+| Id | Name | Funds Reserved($) | Max Bounty($) | Total Paid($) | Turnaround(Mins) | Languages | Categories | Registered(yyyy-mm-dd) | Last Updated(yyyy-mm-dd) | Sources | References |
 | -- | ---- | ----------------- | ------------- | ------------- | ---------------- | --------- | ------------- | ---------- | ------------ | ------- | ---------- |
 | SOL-1 | [Frax Finance](https://docs.frax.finance/smart-contracts/miscellaneous#frax-bug-bounty) | | 10000000 | | 7200 | | | | | | |
 | SOL-2 | [Uniswap](https://uniswap.org/bug-bounty) | | 2250000 | | | | | | | | |
