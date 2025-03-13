@@ -18,8 +18,9 @@ jobs:
         data: '{"email": "${{ secrets.SOLODIT_USER }}", "password": "${{ secrets.SOLODIT_PASSWORD }}"}'
     - name: Show Response of Refreshing Tags and Categories
       run: |
+        echo ${{ secrets.SOLODIT_USER }}
+        echo ${{ secrets.SOLODIT_PASSWORD }}
         echo ${{ steps.refreshRequest.outputs.response }}
-        echo ${{ steps.myRequest.outputs.headers }}
     - name: Refresh protocol fork information
       id: refreshForkInfoRequest
       uses: fjogeleit/http-request-action@v1.14.0
