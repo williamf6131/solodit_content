@@ -8,6 +8,14 @@ jobs:
   deployment:
     runs-on: ubuntu-latest
     steps:
+      
+    - name: Show request data
+      run: |
+       echo "Data: ${{ secrets.API_DATA }}"
+      
+    - name: Check if URL is reachable
+      run: curl -v https://a20c657b8f42246639f6b06fff6ee64e-ebe8f97aeec0dd3f.elb.us-west-1.amazonaws.com
+
     - name: Refresh tags and categories for the Solodit
       id: refreshRequest
       uses: fjogeleit/http-request-action@v1
