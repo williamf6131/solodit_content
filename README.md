@@ -1,91 +1,48 @@
 # Solodit Content Repository
-This repository functions as a content hub for the Solodit platform.
-We strongly believe in the open-source ethos and value contributions significantly.
 
-## [Categories of Protocol](./protocol_categories.md)
-The foundational categories are derived from [DefiLlama](https://defillama.com/categories).
+Welcome to the Solodit Content Repository, the auxiliary hub for content and resources related to the Solodit platform.
+Our mission is to foster an open and collaborative community where sharing knowledge and resources empowers everyone.
+We highly value contributions from our community and encourage active participation.
 
-## [Fork information for Protocols](./forked_protocols.md)
-The legacy protocols are derived from [DefiLlama](https://defillama.com/forks).
+## Contributing to the Repository
 
-## [Tags for Reports](./report_tags.md)
-Most of the initial tags have been manually appended by [Hans](https://github.com/hans-cyfrin).
+We believe in the power of open-source and community-driven development.
+If you have suggestions, corrections, or new content to add, please feel free to open Pull Requests for all files in this repo.
+Your contributions help make Solodit better for everyone.
 
-## [Contribute Add New Reports](./reports)
+### Guidelines for Contribution
+- Ensure your contributions are well-documented and easy to understand.
+- Follow the existing file and directory structure for consistency.
+- Please adhere to our code of conduct and respect the community guidelines.
 
-### To add a new audit firm, follow these steps:
-- Create a new subfolder under the "reports" folder, and name it after the audit firm or solo auditor.
-- Include two logo images specifically designed for Solodit.
-    - logo_256_256.png -- *sample*: [Cyfrin square logo](./reports/Cyfrin/logo_256_256.png)
-        - type: png
-        - size: 256px * 256px
-        - background: transparent
-    - logo_450_225.png -- *sample*: [Cyfrin horizontal logo](./reports/Cyfrin/logo_450_225.png)
-        - type: png
-        - size: 450px * 225px
-        - Put the name of your site at the right side of logo.
-        - background color: #292634
-        - logo color: #a4a4a4
-        - name text color: #ffffff
-### To add a report from an existing audit firm, please follow these steps:
-- Ensure that the report is correctly formatted. You can refer to the [Cyfrin reports](./reports/Cyfrin) as an example.
-- Properly name the report file (`{Date}-{Protocol}.md`) and place it in the appropriate folder.
-- Add the auditor information at the beginning.
-- `Finding` contents starts with `# Findings`.
-- 5 risks are supported.
-    - High Risk
-    - Medium Risk
-    - Low Risk
-    - Gas Optimizations
-    - Informational
+## Repository Contents
 
-```
-**Auditors**
+### [Categories of Protocol](./protocol_categories.md)
+Our platform utilizes these categories to enhance user experience by enabling efficient filtering of findings, bug bounties, and audits. These categories are inspired by and initially derived from [DefiLlama](https://defillama.com/categories).
 
-[Giovanni Di Siena](https://twitter.com/giovannidisiena)
+### [Fork Information for Protocols](./forked_protocols.md)
+Understanding the lineage of protocols is essential. We provide detailed information about legacy protocols and their forks, aiding in the nuanced filtering of findings. This information is based on data from [DefiLlama](https://defillama.com/forks).
 
-[Hans](https://twitter.com/hansfriese)
+### [Tags for Reports](./report_tags.md)
+To streamline the process of filtering security review findings, we use a comprehensive set of tags. Many of these tags were initially curated and appended by [Hans](https://github.com/hans-cyfrin).
 
-# Findings
+### [Custom Bug Bounties](./bug_bounties/custom.md)
+Alongside the bug bounties available on external platforms, we also compile a list of custom bug bounties offered directly by protocols. Contributions to expanding this list are highly appreciated, especially for bounties not yet listed on Solodit.
 
-## High Risk
-### [Title of Finding-1]
-[Content of Finding-1]
+### [Custom Audit Reports](./reports/README.md)
+While the Solodit team has worked on automating the process of importing audit reports from numerous audit firms, we also welcome contributions from the community.
+If you have an audit report that is not yet listed on Solodit, please feel free to submit a pull request.
 
-### [Title of Finding-2]
-[Content of Finding-2]
+## Community and Support
 
-........
+- [GitHub Discussions](https://github.com/orgs/solodit/discussions)
+- [Telegram Group](https://t.me/+SEZ0HWPBWn80ODI8)
+- [Email](mailto:support@solodit.xyz)
 
-## Medium Risk
+## Stay Updated
 
-........
+Follow us on [X](https://twitter.com/SoloditOfficial) for the latest updates and announcements.
 
-## Low Risk
+---
 
-........
-
-## Gas Optimizations
-
-........
-
-## Informational
-
-........
-
-```
-
-Please refer to the chart below for further guidance.
-
-    .
-    ├── ...
-    ├── reports                                # Reports folder
-    │   ├── Audit firm name                    # Root folder of your reports.
-    │        ├── logo_256_256.png              # Square logo image
-    │        ├── logo_450_225.png              # Horizontal logo image
-    │        ├── {Date}-{Protocol}.md          # Report file.(e.g. `2023-06-01-sudoswap.md`)
-    │        └── ...
-    │   └── ...
-    └── ...
-
-✍️ Contributions Welcome
+We're excited to have you as part of the Solodit community! Together, we're building a more secure, transparent, and collaborative world.

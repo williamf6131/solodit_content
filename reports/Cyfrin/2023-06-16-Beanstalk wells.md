@@ -1,6 +1,5 @@
 **Lead Auditors**
 
-
 [Giovanni Di Siena](https://twitter.com/giovannidisiena)
 
 [Hans](https://twitter.com/hansfriese)
@@ -1317,7 +1316,7 @@ It should be noted that on-chain TWAP oracles are [susceptible to manipulation](
 **Cyfrin:** Acknowledged.
 
 \clearpage
-## Gas Optimization
+## Gas Optimizations
 
 
 ### Simplify modulo operations
