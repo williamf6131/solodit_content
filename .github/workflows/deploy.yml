@@ -8,27 +8,17 @@ jobs:
   deployment:
     runs-on: ubuntu-latest
     steps:
-      
-    - name: Show request data
-      run: |
-       echo "Data: ${{ secrets.API_DATA }}"
-      
-    - name: Check if URL is reachable
-      run: curl -v https://a20c657b8f42246639f6b06fff6ee64e-ebe8f97aeec0dd3f.elb.us-west-1.amazonaws.com
-
     - name: Refresh tags and categories for the Solodit
       id: refreshRequest
-      uses: fjogeleit/http-request-action@v1
-      with:
-        url: https://a20c657b8f42246639f6b06fff6ee64e-ebe8f97aeec0dd3f.elb.us-west-1.amazonaws.com/api/general/refresh_tag_category/
-        method: POST
-        customHeaders: '{"Content-Type": "application/x-www-form-urlencoded"}'
-        data: '{"email": "wang@cyfrin.io", "password": "admin123"}'
+      run: |
+        curl -v -k -X POST https://a20c657b8f42246639f6b06fff6ee64e-ebe8f97aeec0dd3f.elb.us-west-1.amazonaws.com/api/general/refresh_tag_category/ \
+        -H "Content-Type: application/x-www-form-urlencoded" \
+        -d "email=${{ secrets.SOLODIT_USER }}" \
+        -d "password=${{ secrets.SOLODIT_PASSWORD }}"
     - name: Show Response of Refreshing Tags and Categories
       run: |
-        echo ${{ secrets.SOLODIT_USER }}
-        echo ${{ secrets.SOLODIT_PASSWORD }}
         echo ${{ steps.refreshRequest.outputs.response }}
+        echo ${{ steps.myRequest.outputs.headers }}
     - name: Refresh protocol fork information
       id: refreshForkInfoRequest
       uses: fjogeleit/http-request-action@v1.14.0
